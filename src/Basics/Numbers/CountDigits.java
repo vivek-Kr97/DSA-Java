@@ -9,8 +9,8 @@ public class CountDigits {
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter a Number : ");
-        Long num = sc.nextLong();
-        Long temp = num;
+        long num = sc.nextLong();
+        long temp = num;
         byte count = 0;
 
         while(num >= 1){
