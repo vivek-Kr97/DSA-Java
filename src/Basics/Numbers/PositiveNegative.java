@@ -1,6 +1,7 @@
 package Basics.Numbers;
 import java.util.*;
 
+//A Program to check whether a number is Even or Odd.
 
 public class PositiveNegative {
     public static void main(String[] args) {
