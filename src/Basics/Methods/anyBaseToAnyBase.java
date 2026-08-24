@@ -1,7 +1,6 @@
 package Basics.Methods;
-
 import java.util.Scanner;
-
+// Program to convert a number from any base to any base
 public class anyBaseToAnyBase {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

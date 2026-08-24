@@ -1,7 +1,6 @@
 package Basics.Methods;
-
 import java.util.Scanner;
-
+// Program to add two numbers from any base
 public class anyBaseAddition {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
