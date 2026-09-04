@@ -25,6 +25,7 @@ bin/
 
 ### VS Code ###
 .vscode/
+/balancedBracket.java
 
 ### Mac OS ###
 .DS_Store
